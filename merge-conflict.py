@@ -1,15 +1,14 @@
 """
 
-I am the file on main branch, I am very important!
+This is a file that we can use to create conflicts,
 
----
-This
-is
-some
-code
+Just edit some of the text !
 
-colleague-one
+Team 7
 ---
+Tom
+Gava
+Thanh
 
 """
-print("Hello World")
+
